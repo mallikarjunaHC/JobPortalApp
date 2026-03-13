@@ -18,7 +18,6 @@ class JobSerializer(serializers.ModelSerializer):
             "title",
             "company_name",
             "location",
-            "experience",
             "employment_type",
             "salary_min",
             "salary_max",
